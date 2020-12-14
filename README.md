@@ -22,3 +22,5 @@ My name is Nick and I'm a software developer from California.
 <!-- [![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijaru&layout=compact&theme=gruvbox&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![nijaru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nijaru)](https://github.com/nijaru/github-readme-stats) -->

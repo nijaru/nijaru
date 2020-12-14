@@ -18,4 +18,4 @@ I'm a software developer from California.
   - hiking & camping
   - chess
 
-[![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats)
+<!-- [![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats) -->

@@ -1,8 +1,21 @@
-### Hello
+## Hello
+
 ---
 
-I am a software developer from California interested in linux, networking, security, and distributed systems. I use Go, C, C++, Python, Ruby, and Javascript. I am learning Rust and have an interest in Haskell, Racket, and Clojure.
+I'm a software developer from California.
 
-I primarily use Fedora, but I also have experience with Ubuntu, MacOS, and Windows. I have some experience with Kali, Gentoo, CoreOS, Alpine, and VyOS. My current projects include using Rust and Go for CLI and networking projects and diving into security.
+- **interests**:
+  - webdev, linux, networking, security, distributed systems
+- **languages**:
+  - **learned**: go, c, c++, python, ruby, javascript
+  - **learning**: rust
+  - **to learn**: haskell, racket, clojure
+- **operating systems**:
+  - **using**: fedora, macos, windows
+  - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos
+- **other interests**:
+  - audio engineering & music production
+  - hiking & camping
+  - chess
 
-Outside of code, I like music production, photography, and hiking.
+[![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats)

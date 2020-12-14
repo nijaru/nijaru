@@ -1,5 +1,4 @@
-## Hello there! :grin:
-
+## Hello there!
 
 I'm a software developer from California.
 

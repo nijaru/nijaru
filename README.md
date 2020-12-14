@@ -1,6 +1,8 @@
 ## Hello there!
 
-I'm a software developer from California.
+---
+
+My name is Nick and I'm a software developer from California.
 
 - **interests**:
   - webdev, linux, networking, security, distributed systems

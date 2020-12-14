@@ -1,7 +1,5 @@
 ## Hello there!
 
----
-
 My name is Nick and I'm a software developer from California.
 
 - **interests**:

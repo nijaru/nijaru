@@ -1,7 +1,5 @@
 ## Hello there! :grin:
 
-[![Twitter Badge](https://img.shields.io/badge/-@nijaru0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nijaru0x)](https://twitter.com/nijaru0x)
-[![Linkedin Badge](https://img.shields.io/badge/-nijaru-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-russo/)](https://www.linkedin.com/in/nick-russo/)
 
 I'm a software developer from California.
 
@@ -18,5 +16,8 @@ I'm a software developer from California.
   - audio engineering & music production
   - hiking & camping
   - chess
+
+[![Twitter Badge](https://img.shields.io/badge/-@nijaru0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nijaru0x)](https://twitter.com/nijaru0x)
+[![Linkedin Badge](https://img.shields.io/badge/-nijaru-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-russo/)](https://www.linkedin.com/in/nick-russo/)
 
 <!-- [![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats) -->

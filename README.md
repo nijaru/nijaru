@@ -7,7 +7,7 @@ My name is Nick and I'm a software developer from California.
 - **languages**:
   - **learned**: go, c, c++, python, ruby, javascript
   - **learning**: rust
-  - **to learn**: haskell, racket, clojure
+  - **to learn**: haskell, racket
 - **operating systems**:
   - **using**: fedora, macos, windows
   - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos

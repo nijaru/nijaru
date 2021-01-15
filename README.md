@@ -2,18 +2,19 @@
 
 My name is Nick and I'm a software developer from California.
 
-- **interests**:
+- **interests:**
   - webdev, linux, networking, security, distributed systems
-- **languages**:
+- **languages:**
   - **learned**: go, c, c++, python, ruby, javascript
-  - **learning**: rust
+  - **learning**: react, rust, and a little arm
   - **to learn**: haskell, racket
-- **operating systems**:
+- **operating systems:**
   - **using**: fedora, macos, windows
   - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos
-- **other interests**:
+- **other interests:**
   - audio engineering & music production
-  - hiking & camping
+  - learning to play the guitar
+  - hiking & camping i.e. _the great outdoors_
   - chess
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@nijaru0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nijaru0x)](https://twitter.com/nijaru0x) -->
@@ -23,4 +24,3 @@ My name is Nick and I'm a software developer from California.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijaru&layout=compact&theme=gruvbox&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![nijaru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nijaru)](https://github.com/nijaru/github-readme-stats) -->

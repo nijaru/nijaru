@@ -6,8 +6,8 @@ My name is Nick and I'm a software developer from California.
   - webdev, linux, networking, security, distributed systems
 - **languages:**
   - **learned**: go, c, c++, python, ruby, javascript
-  - **learning**: react, rust, and a little arm
-  - **to learn**: haskell, racket
+  - **learning**: react, svelte, rust
+  - **to learn**: haskell, racket, and a little arm
 - **operating systems:**
   - **using**: fedora, macos, windows
   - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos
@@ -23,4 +23,3 @@ My name is Nick and I'm a software developer from California.
 <!-- [![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijaru&layout=compact&theme=gruvbox&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
-

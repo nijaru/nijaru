@@ -6,8 +6,8 @@ My name is Nick and I'm a software developer from California.
   - webdev, linux, networking, security, distributed systems
 - **languages:**
   - **learned**: go, c, c++, python, ruby, javascript
-  - **learning**: react
-  - **to learn**: svelte, rust, haskell, racket, and a little arm
+  - **learning**: rust, react
+  - **to learn**: svelte, haskell, racket, and a little arm
 - **operating systems:**
   - **using**: fedora, macos, windows
   - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos

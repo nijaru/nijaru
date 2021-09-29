@@ -9,8 +9,8 @@ My name is Nick and I'm a software developer from California.
   - **learning**: rust, react
   - **to learn**: svelte, haskell, racket, and a little arm
 - **operating systems:**
-  - **using**: fedora, macos, windows
-  - **used**: ubuntu, debian, kali, gentoo, coreos, alpine, vyos
+  - **using**: fedora, macOS, windows
+  - **used**: ubuntu, debian, centOS, rocky, kali, gentoo, coreOS, alpine, vyOS
 - **other interests:**
   - audio engineering & music production
   - learning to play the guitar

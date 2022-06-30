@@ -3,17 +3,16 @@
 My name is Nick and I'm a software developer from California.
 
 - **Interests:**
-	- Web Development, Linux, Networking, Security, Distributed Systems
+	- Web Development, Linux, Networking, Distributed Systems, Security
 - **Languages:**
-	- **Learned**: Go, C, C++, Python, Ruby, Javascript
-	- **Learning**: Rust, React
-	- **To Learn**: Zig, Nim, Julia, Haskell, Racket
+	- **Learned**: Go, Python, C, C++, Ruby, Javascript
+	- **Learning**: Rust
+	- **Interested**: Zig, Nim, Julia, Haskell, Racket
 - **Operating Systems:**
 	- **Using**: Fedora, macOS, Windows
 	- **Used**: Ubuntu, Debian, CentOS, Rocky, Kali, Gentoo, CoreOS, Alpine, VyOS
 - **Other Interests:**
 	- Audio engineering & music production
-	- Learning to play the guitar
 	- Hiking & camping i.e. _the great outdoors_
 	- Chess
 	- Teaching others

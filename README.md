@@ -1,24 +1,7 @@
-## Hello there!
+Hi, I'm a (mostly) self-taught software developer from the SF Bay Area. I like working on linux servers, APIs, networking, and distributed systems.
 
-My name is Nick and I'm a software developer from California.
+I have most recently used Python, Go, and some Javascript for work. I built a public python API to run jobs on our servers through gRPC.
 
-- **Interests:**
-	- Backend Development, Linux, Networking, Distributed Systems, Security
-- **Languages:**
-	- **Learned**: Go, Python, C, C++, Ruby, Javascript
-	- **Learning**: Rust
-	- **Interested**: Zig, Nim, Julia, Haskell, Racket
-- **Operating Systems:**
-	- **Using**: Fedora, macOS, Windows
-	- **Used**: Ubuntu, Debian, CentOS, Rocky, Kali, Gentoo, CoreOS, Alpine, EdgeOS
-- **Other Interests:**
-	- Audio Engineering
-	- Music production
-   	- Mixing & Mastering
-	- Hiking & camping i.e. _the great outdoors_
+I am well versed in Git fu and quite reasonably capable with Linux. I typically use MacOS and Fedora/Redhat for development. I also have experience with Ruby, C, C++, Ubuntu, and Debian. I have various levels of experience with Docker, Gentoo, CoreOS, and Alpine Linux. Lately I have been playing around with Rust.
 
-[![Twitter Badge](https://img.shields.io/badge/-@nijaru0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nijaru0x)](https://twitter.com/nijaru0x)
-[![Linkedin Badge](https://img.shields.io/badge/-nickrusso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-russo/)](https://www.linkedin.com/in/nick-russo/)
-
-<!-- [![nijaru's github stats](https://github-readme-stats.vercel.app/api?username=nijaru&count_private=true&theme=gruvbox)](https://github.com/nijaru/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijaru&layout=compact&theme=gruvbox&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
+Outside of code, I like audio engineering and music production.

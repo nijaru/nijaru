@@ -1,4 +1,4 @@
-Hi, I'm a (mostly) self-taught software developer from the SF Bay Area. I like working on linux servers, APIs, AI, networking, and distributed systems.
+Hi, I'm a software developer from the SF Bay Area. I like working on linux servers, APIs, AI, networking, and distributed systems.
 
 I have been using Python, Go, and some Javascript for work. I built a public python API to run jobs on our servers through gRPC.
 

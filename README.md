@@ -1,25 +1,47 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a software developer from the San Francisco Bay Area specializing in backend development.
 
-#### Technical Background
+### Technical Background
 
-- Primary languages: Python and Go
-- Experience with: C, C++, Ruby, JavaScript
-- Currently learning: Rust, Mojo, Zig
-- Tools & Technologies: Linux, Git, Docker, SQLite, PostgreSQL, Redis
+- **Primary languages**:
+  ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+- **Experience with**:
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Currently learning**:
+  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
+  ![Mojo](https://img.shields.io/badge/-Mojo-CCCCCC?logo=mojo&logoColor=black)
+  ![Zig](https://img.shields.io/badge/-Zig-000000?logo=zig&logoColor=white)
+- **Tools & Technologies**:
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-#### Areas of Interest
+### Areas of Interest
 
 - Backend Development & API Design
 - Distributed Systems & Networking
 - Databases & Data Engineering
 - Artificial Intelligence & Machine Learning
 
-#### What I'm Up To
+### What I'm Up To
 
-- Building yt-text, a tool for YouTube audio transcription
+- Building **yt-text**, a tool for YouTube audio transcription
 - Learning LLM engineering and prompt design
 - Exploring modern programming languages
 
-When not coding, I work on music production and audio engineering projects.
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nijaru-blue?logo=linkedin)](https://www.linkedin.com/in/nick-russo/)
+[![X](https://img.shields.io/badge/X-@nijaru-blue?logo=x)](https://x.com/nijaru0x)
+[![Bluesky](https://img.shields.io/badge/Bluesky-nickjr.bsky.social-blue?logo=bluesky)](https://bsky.app/profile/nickjr.bsky.social)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=gmail&logoColor=white)](mailto:nijaru7@gmail.com)
+
+> "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."

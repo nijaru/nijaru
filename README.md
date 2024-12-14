@@ -14,7 +14,7 @@ I'm a software developer from the San Francisco Bay Area specializing in backend
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Currently learning**:
   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
-  ![🔥 Mojo](https://img.shields.io/badge/-%F0%9F%94%A5%20Mojo-lightgrey?style=flat-square)
+  ![Mojo](https://img.shields.io/badge/-Mojo-lightgrey?style=flat&logo=fire)
   ![Zig](https://img.shields.io/badge/-Zig-000000?logo=zig&logoColor=white)
 - **Tools & Technologies**:
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)

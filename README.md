@@ -5,7 +5,7 @@ I'm a software developer from the San Francisco Bay Area specializing in backend
 ### Technical Background
 
 - **Primary languages**:
-  ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=flat)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 - **Experience with**:
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)

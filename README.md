@@ -33,7 +33,8 @@ I'm a software developer from the San Francisco Bay Area specializing in backend
 
 ### What I'm Up To
 
-- Building **yt-text**, a tool for YouTube audio transcription
+
+- Building [**yt-text**](https://github.com/nijaru/yt-text), a tool for YouTube audio transcriptions
 - Learning LLM engineering and prompt design
 - Exploring modern programming languages
 

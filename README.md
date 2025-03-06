@@ -2,6 +2,21 @@
 
 I'm a software developer from the San Francisco Bay Area specializing in backend development.
 
+### Areas of Interest
+
+- Backend Development & API Design
+- Distributed Systems & Networking
+- Databases & Data Engineering
+- Artificial Intelligence & Machine Learning
+
+### What I'm Up To
+
+- Building a backend-as-a-service platform to simplify server-side infrastructure
+- Exploring audio processing technologies combined with artificial intelligence
+- Learning new programming languages, with a current focus on Mojo
+- Researching recent papers on databases and storage systems
+- Working on music production and audio engineering projects
+
 ### Technical Background
 
 - **Primary languages**:
@@ -23,22 +38,6 @@ I'm a software developer from the San Francisco Bay Area specializing in backend
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-
-### Areas of Interest
-
-- Backend Development & API Design
-- Distributed Systems & Networking
-- Databases & Data Engineering
-- Artificial Intelligence & Machine Learning
-
-### What I'm Up To
-
-- Building a backend-as-a-service platform to simplify server-side infrastructure
-- Exploring audio processing technologies combined with artificial intelligence
-- Learning new programming languages, with a current focus on Mojo
-- Researching recent papers on databases and storage systems
-- Working on music production and audio engineering projects
-
 
 ### Connect with Me
 

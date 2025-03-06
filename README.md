@@ -33,12 +33,12 @@ I'm a software developer from the San Francisco Bay Area specializing in backend
 
 ### What I'm Up To
 
-- Developing a backend-as-a-service platform
-- Leveraging LLMs to build applications on top of LLMs
-- Contributing to [**yt-text**](https://github.com/nijaru/yt-text), a tool for transcribing YouTube audio
-- Exploring new programming languages, with a current focus on Mojo
-- Reading through recent papers on the latest database research
-- Learning Solid.js
+- Building a backend-as-a-service platform to simplify server-side infrastructure
+- Exploring audio processing technologies combined with artificial intelligence
+- Learning new programming languages, with a current focus on Mojo
+- Researching recent papers on databases and storage systems
+- Working on music production and audio engineering projects
+
 
 ### Connect with Me
 

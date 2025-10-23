@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm a software developer from the San Francisco Bay Area building databases, AI systems, and developer tools.
+Software developer building databases, AI systems, APIs, and developer tools. Based in the Bay Area.
 
 ### Areas of Interest
 
 - Database Systems & Vector Search
+- API Design & Backend Architecture
 - AI/ML Infrastructure & Autonomous Agents
 - Developer Tools & Package Managers
 - Web Frameworks & Full-Stack Development

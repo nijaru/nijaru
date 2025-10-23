@@ -1,21 +1,34 @@
 ## Hi there 👋
 
-I'm a software developer from the San Francisco Bay Area specializing in backend development.
+I'm a software developer from the San Francisco Bay Area building databases, AI systems, and developer tools.
 
 ### Areas of Interest
 
-- Backend Development & API Design
-- Distributed Systems & Networking
-- Databases & Data Engineering
-- Artificial Intelligence & Machine Learning
+- Database Systems & Vector Search
+- AI/ML Infrastructure & Autonomous Agents
+- Developer Tools & Package Managers
+- Web Frameworks & Full-Stack Development
 
-### What I'm Up To
+### Current Projects
 
-- Building a backend-as-a-service platform to simplify server-side infrastructure
-- Exploring audio processing technologies combined with artificial intelligence
-- Learning new programming languages, with a current focus on Mojo
-- Researching recent papers on databases and storage systems
-- Working on music production and audio engineering projects
+**Databases**
+- **[OmenDB](https://github.com/omendb)** - PostgreSQL-compatible vector database with HNSW + Binary Quantization, targeting 10x faster queries and 24x better memory efficiency than pgvector. Hybrid HTAP architecture with ALEX learned indexes for SQL
+
+**AI & ML**
+- **DJScout** - AI models for playlist generation trained on 10K+ DJ mixes with audio analysis
+- **Autonomous AI Agents** - Multi-step reasoning and task execution systems
+- **Pacabot** - AI-powered trading bot with market analysis and automated strategy execution
+
+**Developer Tools**
+- **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
+- **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
+- **Kombrucha** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
+- **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
+- **vllama** - vLLM-based Ollama clone for high-throughput LLM inference
+- **aircher** - Terminal-based AI coding assistant (development halted)
+
+**Web Applications**
+- **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
 
 ### Technical Background
 

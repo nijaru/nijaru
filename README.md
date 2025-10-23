@@ -16,7 +16,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **Pacabot** - AI-powered trading bot with market analysis and automated strategy execution
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
-- **Kombrucha** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
+- **[Kombrucha](https://github.com/nijaru/kombrucha)** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
 - **DJScout** - AI models for playlist generation trained on 10K+ DJ mixes with audio analysis
 - **vllama** - vLLM-based Ollama clone for high-throughput LLM inference
 - **Autonomous AI Coding Agents** - Autonomous systems for code generation and software development tasks

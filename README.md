@@ -9,26 +9,22 @@ I'm a software developer from the San Francisco Bay Area building databases, AI 
 - Developer Tools & Package Managers
 - Web Frameworks & Full-Stack Development
 
-### Current Projects
+### Recent Projects
 
-**Databases**
 - **[OmenDB](https://github.com/omendb)** - PostgreSQL-compatible vector database with HNSW + Binary Quantization, targeting 10x faster queries and 24x better memory efficiency than pgvector. Hybrid HTAP architecture with ALEX learned indexes for SQL
-
-**AI & ML**
-- **DJScout** - AI models for playlist generation trained on 10K+ DJ mixes with audio analysis
-- **Autonomous AI Agents** - Multi-step reasoning and task execution systems
-- **Pacabot** - AI-powered trading bot with market analysis and automated strategy execution
-
-**Developer Tools**
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
+- **Pacabot** - AI-powered trading bot with market analysis and automated strategy execution
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
 - **Kombrucha** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
-- **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
+- **DJScout** - AI models for playlist generation trained on 10K+ DJ mixes with audio analysis
 - **vllama** - vLLM-based Ollama clone for high-throughput LLM inference
-- **aircher** - Terminal-based AI coding assistant (development halted)
+- **Autonomous AI Coding Agents** - Autonomous systems for code generation and software development tasks
 
-**Web Applications**
+### Other Projects
+
+- **aircher** - Terminal-based AI coding assistant (on hold)
 - **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
+- **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
 
 ### Technical Background
 

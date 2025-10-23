@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software developer building databases, AI systems, APIs, and developer tools. Based in the Bay Area.
+Software developer building AI systems, APIs, developer tools, and databases. Based in the Bay Area.
 
 ### Areas of Interest
 

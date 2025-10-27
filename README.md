@@ -23,7 +23,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Other Projects
 
-- **aircher** - Terminal-based AI coding assistant (on hold)
+- **[aircher](https://github.com/nijaru/aircher)** - Research-grade ACP agent backend with intent-driven architecture and dynamic context management
 - **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
 - **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
 

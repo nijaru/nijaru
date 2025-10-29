@@ -12,14 +12,13 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Recent Projects
 
-- **[OmenDB](https://github.com/omendb)** - PostgreSQL-compatible vector database with HNSW + Binary Quantization, targeting 10x faster queries and 24x better memory efficiency than pgvector. Hybrid HTAP architecture with ALEX learned indexes for SQL
+- **[OmenDB](https://github.com/omendb)** - PostgreSQL-compatible vector database in Rust implementing HNSW indexing, binary quantization, and hybrid HTAP architecture with ALEX learned indexes for SQL
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **Pacabot** - AI-powered trading bot with market analysis and automated strategy execution
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
 - **[Kombrucha](https://github.com/nijaru/kombrucha)** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
 - **DJScout** - AI models for playlist generation trained on 10K+ DJ mixes with audio analysis
-- **vllama** - vLLM-based Ollama clone for high-throughput LLM inference
-- **Autonomous AI Coding Agents** - Autonomous systems for code generation and software development tasks
+- **[vllama](https://github.com/nijaru/vllama)** - Ollama-compatible LLM inference server powered by vLLM, proven 29.95x faster for concurrent requests
 
 ### Other Projects
 

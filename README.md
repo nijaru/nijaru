@@ -18,7 +18,6 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
 - **[Kombrucha](https://github.com/nijaru/kombrucha)** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
 - **DJScout** - AI DJ intelligence platform with LSTM models trained on 10K+ professional sets. Iterating on model improvements and playlist generation quality
-- **[vllama](https://github.com/nijaru/vllama)** - Ollama-compatible LLM inference server powered by vLLM, proven 29.95x faster for concurrent requests
 
 ### Other Projects
 

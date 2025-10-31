@@ -12,7 +12,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Recent Projects
 
-- **[OmenDB](https://github.com/omendb/omendb)** - Embedded PostgreSQL-compatible vector database in Rust with HNSW indexing and binary quantization. Planned modules: full-text search, graph links, time series. Active development
+- **[OmenDB](https://github.com/omendb/omendb)** - Embedded PostgreSQL-compatible vector database in Rust with HNSW indexing and binary quantization. With planned full-text search, graph links, and time series. Active development
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **Pacabot** - AI trading bot with multi-agent analysis system using 13 data sources including market data, SEC filings, news, and social sentiment. Production-ready, running 24/7
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks

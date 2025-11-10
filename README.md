@@ -13,7 +13,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 ### Recent Projects
 
 - **[seerdb](https://github.com/omendb/seerdb)** - Experimental storage engine with learned indexes beating RocksDB 2.14x on writes, 1.12x on reads. Implements WiscKey key-value separation achieving 4.82x better write amplification than traditional LSM trees
-- **omendb** - Vector database with embedded library (Rust + Mojo implementations) and cloud service in development. Embedded version supports 1K-1M vectors. Cloud version targeting billion-scale deployments with automatic tiered storage (RAM → SSD → S3)
+- **omendb** - Vector database with embedded library (Rust + Mojo implementations) and server version in development. Embedded supports 1K-1M vectors. Server targeting billion-scale deployments with automatic tiered storage (RAM → SSD → S3)
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **Pacabot** - AI trading bot with multi-agent analysis system using 13 data sources including market data, SEC filings, news, and social sentiment. Production-ready, running 24/7
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks

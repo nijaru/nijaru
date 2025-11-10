@@ -12,8 +12,8 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Recent Projects
 
-- **[seerdb](https://github.com/omendb/seerdb)** - Experimental storage engine with ALEX learned indexes beating RocksDB on all major workloads (2.14x writes, 1.12x reads, 1.23x mixed). Implements WiscKey key-value separation, Dostoevsky adaptive compaction, and learned bloom filters. 4.82x better write amplification than traditional LSM trees
-- **OmenDB** - Embedded vector database in Rust with HNSW indexing and binary quantization. RocksDB storage backend with MVCC transactions. Planned features include full-text search, graph links, and time series. Active development
+- **omendb** - Vector database with embedded library (Rust + Mojo implementations) and cloud service in development. Embedded version supports 1K-1M vectors. Cloud version targeting billion-scale deployments with automatic tiered storage (RAM → SSD → S3)
+- **[seerdb](https://github.com/omendb/seerdb)** - Experimental storage engine with learned indexes. Benchmarks show 2.14x faster writes, 1.12x faster reads vs RocksDB, with 4.82x better write amplification (~1x) through WiscKey key-value separation. Open source, early development stage
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **Pacabot** - AI trading bot with multi-agent analysis system using 13 data sources including market data, SEC filings, news, and social sentiment. Production-ready, running 24/7
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks

@@ -12,10 +12,11 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Recent Projects
 
-- **[seerdb](https://github.com/omendb/seerdb)** - Experimental storage engine with learned indexes beating RocksDB 2.14x on writes, 1.12x on reads. Implements WiscKey key-value separation achieving 4.82x better write amplification than traditional LSM trees
-- **omendb** - Vector database with embedded library and server implementations. Embedded library has dual implementations in Rust (production) and Mojo (research) for 1K-1M vector workloads. Server version in active development targeting billion-scale production deployments with automatic tiered storage (RAM → SSD → S3)
+- **[seerdb](https://github.com/omendb/seerdb)** - Production-ready storage engine with learned indexes beating RocksDB 2.47x on writes, 2.07x on reads. Implements WiscKey key-value separation achieving 4.82x better write amplification than traditional LSM trees
+- **omendb** - Vector database with embedded library (Rust + Mojo implementations) and cloud service targeting billion-scale deployments. Tiered storage architecture (RAM → SSD → S3)
+- **[aircher](https://github.com/nijaru/aircher)** - AI coding agent backend using LangGraph for multi-agent orchestration. Maintains working memory of codebase and task history, learns project patterns. Supports Agent Client Protocol (ACP) for editor integrations
+- **Pacabot** - AI trading bot using LangGraph multi-agent system with 13 data sources including market data, SEC filings, news, and social sentiment. Real-time research with automated risk management
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
-- **Pacabot** - AI trading bot with multi-agent analysis system using 13 data sources including market data, SEC filings, news, and social sentiment. Production-ready, running 24/7
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
 - **[Kombrucha](https://github.com/nijaru/kombrucha)** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
 - **[stop](https://github.com/nijaru/stop)** - Structured process monitoring with JSON output for AI agents and automation. v0.0.1 complete with filtering, sorting, and watch mode
@@ -23,7 +24,6 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Other Projects
 
-- **[aircher](https://github.com/nijaru/aircher)** - Intelligent coding agent backend that maintains working memory of codebases and learns project patterns
 - **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
 - **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
 

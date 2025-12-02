@@ -13,7 +13,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 ### Recent Projects
 
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM storage engine with learned indexes and WiscKey key-value separation. 2.5x faster writes, 2x faster reads with 5x lower write amplification
-- **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database for Python. HNSW indexing with 8x compression, filtered search, persistent storage, and LangChain integration. Open source on PyPI
+- **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database for Python. HNSW indexing with 8x compression, filtered search, persistent storage, and LangChain integration
 - **[aircher](https://github.com/nijaru/aircher)** - AI coding agent backend using LangGraph for multi-agent orchestration. Maintains working memory of codebase and task history, learns project patterns. Supports Agent Client Protocol (ACP) for editor integrations
 - **Pacabot** - AI trading bot using LangGraph multi-agent system with 13 data sources including market data, SEC filings, news, and social sentiment. Real-time research with automated risk management
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)

@@ -16,14 +16,13 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 - **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database for Python. HNSW indexing with 8x compression, filtered search, persistent storage, and LangChain integration. Server mode in development
 - **[aircher](https://github.com/nijaru/aircher)** - AI coding agent backend using LangGraph for multi-agent orchestration. Maintains working memory of codebase and task history, learns project patterns. Supports Agent Client Protocol (ACP) for editor integrations
 - **Pacabot** - AI trading bot using LangGraph multi-agent system with 13 data sources including market data, SEC filings, news, and social sentiment. Real-time research with automated risk management
+- **[hygrep](https://github.com/nijaru/hygrep)** - Semantic code search with neural reranking. Parallel Mojo scanner (~20k files/sec) + ONNX inference. Agent-ready JSON output
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
 - **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
-- **[Kombrucha](https://github.com/nijaru/kombrucha)** - Homebrew clone in Rust with fast dependency resolution and parallel downloads
-- **[stop](https://github.com/nijaru/stop)** - Structured process monitoring with JSON output for AI agents and automation. v0.0.1 complete with filtering, sorting, and watch mode
-- **DJScout** - AI DJ intelligence platform with LSTM models trained on 10K+ professional sets. Iterating on model improvements and playlist generation quality
 
 ### Other Projects
 
+- **DJScout** - AI DJ intelligence platform with LSTM models trained on 10K+ professional sets
 - **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
 - **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
 

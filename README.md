@@ -18,7 +18,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 - **Pacabot** - AI trading bot using LangGraph multi-agent system with 13 data sources including market data, SEC filings, news, and social sentiment. Real-time research with automated risk management
 - **[hygrep](https://github.com/nijaru/hygrep)** - Semantic code search with neural reranking. Parallel Mojo scanner (~20k files/sec) + ONNX inference. Agent-ready JSON output
 - **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
-- **[sy](https://github.com/nijaru/sy)** - rsync reimagined in Rust, 40-79% faster on local sync benchmarks
+- **[sy](https://github.com/nijaru/sy)** - Modern file sync tool with delta transfers, 40-79% faster than rsync on local benchmarks
 
 ### Other Projects
 

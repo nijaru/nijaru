@@ -12,19 +12,19 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 
 ### Recent Projects
 
-- **[seerdb](https://github.com/omendb/seerdb)** - LSM storage engine with learned indexes and WiscKey key-value separation. 2.5x faster writes, 2x faster reads with 5x lower write amplification
-- **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database for Python. HNSW indexing with 8x compression, filtered search, persistent storage, and LangChain integration. Server mode in development
-- **[aircher](https://github.com/nijaru/aircher)** - AI coding agent backend using LangGraph for multi-agent orchestration. Maintains working memory of codebase and task history, learns project patterns. Supports Agent Client Protocol (ACP) for editor integrations
-- **Pacabot** - AI trading bot using LangGraph multi-agent system with 13 data sources including market data, SEC filings, news, and social sentiment. Real-time research with automated risk management
-- **[hygrep](https://github.com/nijaru/hygrep)** - Semantic code search with neural reranking. Parallel Mojo scanner (~20k files/sec) + ONNX inference. Agent-ready JSON output
-- **[Zenith](https://github.com/nijaru/zenith)** - Modern Python web framework with exceptional performance (9,600+ req/s)
-- **[sy](https://github.com/nijaru/sy)** - Modern file sync tool with delta transfers, 40-79% faster than rsync on local benchmarks
+- **[seerdb](https://github.com/omendb/seerdb)** - LSM storage engine with ALEX learned indexes and WiscKey key-value separation. 2.5x faster writes, 2x faster reads, 5x lower write amplification vs RocksDB
+- **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database with Python bindings. Persistent storage and filtered search
+- **[aircher](https://github.com/nijaru/aircher)** - AI coding agent using LangGraph multi-agent orchestration. Maintains codebase context and task history across sessions. ACP-compatible
+- **Pacabot** - AI trading bot using LangGraph multi-agent system. Aggregates 13 data sources including market data, SEC filings, news, and social sentiment
+- **[hygrep](https://github.com/nijaru/hygrep)** - Hybrid code search combining grep with neural reranking. Parallel Mojo scanner (~20k files/sec) with ONNX reranker
+- **[Zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
+- **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 
 ### Other Projects
 
-- **DJScout** - AI DJ intelligence platform with LSTM models trained on 10K+ professional sets
-- **[AltText API](https://alttextapi.com)** - AI-powered alt text generation API
-- **[yt-text](https://github.com/nijaru/yt-text)** - High-performance video transcription using Whisper
+- **DJScout** - DJ mix analysis using LSTM models trained on 10K+ professional sets
+- **[AltText API](https://alttextapi.com)** - Alt text generation API on Cloudflare Workers
+- **[yt-text](https://github.com/nijaru/yt-text)** - Video transcription with multiple Whisper backends and automatic fallback
 
 ### Technical Background
 

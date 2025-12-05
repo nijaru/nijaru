@@ -16,7 +16,7 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 - **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database with Python bindings. Persistent storage and filtered search
 - **[aircher](https://github.com/nijaru/aircher)** - AI coding agent using LangGraph multi-agent orchestration. Maintains codebase context and task history across sessions. ACP-compatible
 - **Pacabot** - AI trading bot using LangGraph multi-agent system. Aggregates 13 data sources including market data, SEC filings, news, and social sentiment
-- **[hygrep](https://github.com/nijaru/hygrep)** - Hybrid code search combining grep with neural reranking. Parallel Mojo scanner (~20k files/sec) with ONNX reranker
+- **[hygrep](https://github.com/nijaru/hygrep)** - Semantic code search with automatic local indexing. Tree-sitter extraction, local embeddings, 22+ languages
 - **[Zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
 - **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 

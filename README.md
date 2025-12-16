@@ -13,10 +13,11 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
 ### Recent Projects
 
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM storage engine with ALEX learned indexes and WiscKey key-value separation. 2.5x faster writes, 2x faster reads, 5x lower write amplification vs RocksDB
-- **[OmenDB](https://github.com/omendb/omendb)** - Embedded vector database with Python bindings. Persistent storage and filtered search
+- **[omendb](https://github.com/omendb/omendb)** - Embedded vector database for Python. ACORN-1 filtered search, RaBitQ quantization, hybrid search
 - **[aircher](https://github.com/nijaru/aircher)** - AI coding agent using LangGraph multi-agent orchestration. Maintains codebase context and task history across sessions. ACP-compatible
 - **Pacabot** - AI trading bot using LangGraph multi-agent system. Aggregates 13 data sources including market data, SEC filings, news, and social sentiment
-- **[hygrep](https://github.com/nijaru/hygrep)** - Semantic code search with automatic local indexing. Tree-sitter extraction, local embeddings, 22+ languages
+- **[hhg](https://github.com/nijaru/hygrep)** - Hybrid code search combining semantic embeddings with BM25. Tree-sitter extraction, local indexing, 22 languages
+- **[jb](https://github.com/nijaru/jb)** - Background job manager for AI agents. Tasks survive session end, run in parallel, monitored from any context
 - **[Zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
 - **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 

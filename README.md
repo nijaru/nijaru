@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-Software developer building AI systems, APIs, developer tools, and databases. Based in the Bay Area.
+Backend engineer building agents, databases, and developer tools.
 
 ### Areas of Interest
 
@@ -33,14 +33,14 @@ Software developer building AI systems, APIs, developer tools, and databases. Ba
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=flat)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 - **Experience with**:
+  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Currently learning**:
-  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
-  ![🔥 Mojo](https://img.shields.io/badge/-%F0%9F%94%A5%20Mojo-black?style=flat)
-  ![Zig](https://img.shields.io/badge/-Zig-000000?logo=zig&logoColor=white)
+  ![Mojo](https://img.shields.io/badge/-Mojo-FF7139?style=flat)
+  ![Zig](https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=white)
 - **Tools & Technologies**:
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)

@@ -12,12 +12,11 @@ Backend engineer building agents, databases, and developer tools.
 
 ### Recent Projects
 
-- **[omendb](https://github.com/omendb/omendb)** - Embedded vector database for Python. ACORN-1 filtered search, RaBitQ quantization, hybrid search
-- **[seerdb](https://github.com/omendb/seerdb)** - LSM storage engine with ALEX learned indexes and WiscKey key-value separation. 2.5x faster writes, 2x faster reads, 5x lower write amplification vs RocksDB
-- **[hhg](https://github.com/nijaru/hygrep)** - Hybrid code search combining semantic embeddings with BM25. Tree-sitter extraction, local indexing, 22 languages
-- **[jb](https://github.com/nijaru/jb)** - Background job manager for AI agents. Tasks survive session end, run in parallel, monitored from any context
-- **aircher** - Local-first memory framework for AI agents with multi-layer architecture
-- **pacabot** - Algorithmic trading system in Rust. Options pricing model, dynamic position sizing, real-time volatility tracking
+- **[omendb](https://github.com/omendb/omendb)** - Embedded vector database. 4x faster than hnswlib-based alternatives. Rust core with Python bindings via PyO3/maturin
+- **[seerdb](https://github.com/omendb/seerdb)** - LSM-tree storage engine. 2.5x faster writes, 5x lower write amplification than RocksDB
+- **[hhg](https://github.com/nijaru/hygrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages
+- **[jb](https://github.com/nijaru/jb)** - Background job manager. Session-persistent execution for long-running tasks
+- **pacabot** - Algorithmic trading system. Options pricing with real-time position sizing
 - **[zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
 - **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 

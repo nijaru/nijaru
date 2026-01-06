@@ -16,6 +16,8 @@ Backend engineer building agents, databases, and developer tools.
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM-tree storage engine. 2.5x faster writes, 5x lower write amplification than RocksDB
 - **[hhg](https://github.com/nijaru/hygrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages
 - **[jb](https://github.com/nijaru/jb)** - Background job manager. Session-persistent execution for long-running tasks
+- **[tk](https://github.com/nijaru/tk)** - Task tracker for AI agents. Git-friendly storage with blocking dependencies
+- **[orcx](https://github.com/nijaru/orcx)** - LLM orchestrator. Route prompts to 100+ providers with agent presets and cost tracking
 - **pacabot** - Algorithmic trading system. Options pricing with real-time position sizing
 - **[zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
 - **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync

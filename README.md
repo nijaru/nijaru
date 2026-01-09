@@ -26,7 +26,7 @@ Backend engineer building agents, databases, and developer tools.
 
 - **djscout** - DJ mix analysis using LSTM models trained on 10K+ professional sets
 - **[alttext api](https://alttextapi.com)** - Alt text generation API on Cloudflare Workers
-- **[yt-text](https://github.com/nijaru/yt-text)** - Video transcription with multiple Whisper backends and automatic fallback
+- **[yt-text](https://github.com/nijaru/yt-text)** - Video transcription service. Edge API on Cloudflare Workers with serverless GPU inference on Modal
 
 ### Technical Background
 

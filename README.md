@@ -12,6 +12,7 @@ Backend engineer building agents, databases, and developer tools.
 
 ### Recent Projects
 
+- **[agnt](https://github.com/nijaru/agnt)** - TUI coding agent with persistent memory. Budget-aware context assembly using native OmenDB integration
 - **[omendb](https://github.com/omendb/omendb)** - Embedded vector database. 4x faster than hnswlib-based alternatives. Rust core with Python bindings via PyO3/maturin
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM-tree storage engine. 2.5x faster writes, 5x lower write amplification than RocksDB
 - **[hhg](https://github.com/nijaru/hygrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages

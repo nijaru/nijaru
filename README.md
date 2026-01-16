@@ -19,6 +19,7 @@ Backend engineer building agents, databases, and developer tools.
 - **[tk](https://github.com/nijaru/tk)** - Task tracker for AI agents. Git-friendly storage with blocking dependencies
 - **[orcx](https://github.com/nijaru/orcx)** - LLM orchestrator. Route prompts to 100+ providers with agent presets and cost tracking
 - **pacabot** - Algorithmic trading system. Options pricing with real-time position sizing
+- **agnt** - TUI coding agent with persistent memory. Budget-aware context assembly using native OmenDB integration
 - **[zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
 - **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 

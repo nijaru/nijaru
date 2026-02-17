@@ -14,7 +14,7 @@ Backend engineer building agents, databases, and developer tools.
 
 - **[omendb](https://github.com/omendb/omendb)** - Embedded vector database. 4x faster than hnswlib-based alternatives. Rust core with Python bindings via PyO3/maturin
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM-tree storage engine. 2.5x faster writes, 5x lower write amplification than RocksDB
-- **[hhg](https://github.com/nijaru/hygrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages
+- **[omengrep](https://github.com/nijaru/omengrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages
 - **[jb](https://github.com/nijaru/jb)** - Background job manager. Session-persistent execution for long-running tasks
 - **[tk](https://github.com/nijaru/tk)** - Task tracker for AI agents. Git-friendly storage with blocking dependencies
 - **[orcx](https://github.com/nijaru/orcx)** - LLM orchestrator. Route prompts to 100+ providers with agent presets and cost tracking

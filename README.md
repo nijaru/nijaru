@@ -17,14 +17,15 @@ Backend engineer building agents, databases, and developer tools.
 - **[omengrep](https://github.com/nijaru/omengrep)** - Semantic code search tool. Tree-sitter parsing for 22 languages
 - **[jb](https://github.com/nijaru/jb)** - Background job manager. Session-persistent execution for long-running tasks
 - **[tk](https://github.com/nijaru/tk)** - Task tracker for AI agents. Git-friendly storage with blocking dependencies
-- **[orcx](https://github.com/nijaru/orcx)** - LLM orchestrator. Route prompts to 100+ providers with agent presets and cost tracking
-- **pacabun** - Algorithmic trading system. Options pricing with real-time position sizing
+- **pacabot** - Prediction market trading bot. Event-driven order execution with real-time risk management
+- **[go-clob-client](https://github.com/nijaru/go-clob-client)** - Go SDK for the Polymarket CLOB. Read-only, auth, and order-signing flows are already usable
 - **[ion](https://github.com/nijaru/ion)** - Fast TUI coding agent with multi-provider LLM support
-- **[zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
-- **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 
 ### Other Projects
 
+- **[orcx](https://github.com/nijaru/orcx)** - LLM orchestrator. Route prompts to 100+ providers with agent presets and cost tracking
+- **[zenith](https://github.com/nijaru/zenith)** - Python web framework with zero-config setup, chainable ORM, and one-liner features. 9,600+ req/s
+- **[sy](https://github.com/nijaru/sy)** - File sync with delta transfers and parallel operations. 40-79% faster than rsync
 - **djscout** - DJ mix analysis using LSTM models trained on 10K+ professional sets
 - **[alttext api](https://alttextapi.com)** - Alt text generation API on Cloudflare Workers
 - **[yt-text](https://github.com/nijaru/yt-text)** - Video transcription service. Edge API on Cloudflare Workers with serverless GPU inference on Modal

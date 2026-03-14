@@ -2,6 +2,8 @@
 
 Backend engineer building agents, databases, and developer tools in Go, Python, and Rust, with experience in C, C++, Ruby, and JavaScript. Currently exploring Mojo and Zig.
 
+---
+
 ### Areas of Interest
 
 - Database Systems & Vector Search
@@ -9,6 +11,8 @@ Backend engineer building agents, databases, and developer tools in Go, Python, 
 - AI/ML Infrastructure & Autonomous Agents
 - Developer Tools & Package Managers
 - Web Frameworks & Full-Stack Development
+
+---
 
 ### Recent Projects
 
@@ -23,6 +27,8 @@ Backend engineer building agents, databases, and developer tools in Go, Python, 
 - **[go-clob-client](https://github.com/nijaru/go-clob-client)** - Go SDK for the Polymarket CLOB. Read-only, auth, and order-signing flows are already usable
 - **gomop** - Unified Go formatter combining gofumpt, golines, and goimports in a single AST pass. Sub-10ms formatting for typical files
 
+---
+
 ### Other Projects
 
 - **[seerdb](https://github.com/omendb/seerdb)** - LSM-tree storage engine. 2.5x faster writes, 5x lower write amplification than RocksDB
@@ -32,5 +38,7 @@ Backend engineer building agents, databases, and developer tools in Go, Python, 
 - **djscout** - DJ mix analysis using LSTM models trained on 10K+ professional sets
 - **[alttext api](https://alttextapi.com)** - Alt text generation API on Cloudflare Workers
 - **[yt-text](https://github.com/nijaru/yt-text)** - Video transcription service. Edge API on Cloudflare Workers with serverless GPU inference on Modal
+
+---
 
 > "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."

@@ -11,7 +11,7 @@ I build databases, developer tools, and agents in Go, Python, and Rust. I've als
 - **[tk](https://github.com/nijaru/tk)** - Task tracker for AI agents. Git-friendly storage with blocking dependencies
 - **pacabot** - Prediction market trading bot. Event-driven order execution with real-time risk management
 - **[go-clob-client](https://github.com/nijaru/go-clob-client)** - Go SDK for the Polymarket CLOB. Supports trading, authentication, and order signing.
-- **[gomop](https://github.com/nijaru/gomop)** - Unified Go formatter combining gofumpt, golines, and goimports in a single AST pass. Sub-10ms formatting for typical files
+- **[gomop](https://github.com/nijaru/gomop)** - Unified Go formatter combining gofumpt, golines, and goimports in a single AST pass.
 
 ### Previous Work
 

@@ -18,6 +18,7 @@ I build databases, developer tools, and agents in Go, Python, and Rust. I've als
 
 - **pacabot** - Prediction market trading bot. Event-driven order execution with real-time risk management
 - **[go-clob-client](https://github.com/nijaru/go-clob-client)** - Go SDK for the Polymarket CLOB. Supports trading, authentication, and order signing.
+- **[go-polymarket-data](https://github.com/nijaru/go-polymarket-data)** - Go client for the Polymarket data API
 
 ---
 

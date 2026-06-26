@@ -5,6 +5,7 @@ I build databases, developer tools, and agents in Go, Rust, and TypeScript.
 - **[omendb](https://github.com/omendb/omendb)** - Embedded vector database. 4x faster than hnswlib. Rust core with Python and TypeScript bindings
 - **[omengrep](https://github.com/nijaru/omengrep)** - Semantic code search CLI. Tree-sitter parsing for 22 languages, hybrid embedding + BM25 ranking
 - **[hnsw-go](https://github.com/nijaru/hnsw-go)** - Native Go HNSW graph implementation with pluggable distance metrics
+- **[stt-bench](https://github.com/nijaru/stt-bench)** - Speech-to-text benchmarking across 13 acoustic conditions. Published results for 4 models
 
 ### Agents & AI
 

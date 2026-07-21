@@ -2,7 +2,8 @@ I build databases, developer tools, and agents in Go, Rust, and TypeScript.
 
 ### Databases & Search
 
-- **[omendb](https://github.com/omendb/omendb)** - Embedded vector database. 4x faster than hnswlib. Rust core with Python and TypeScript bindings
+- **[omendb](https://github.com/omendb/omendb)** - Embedded retrieval database for hybrid vector + text search over mutable application data, with metadata, source evidence, and bounded relationships. Active Mojo engine; public developer preview.
+- **[omendb-rs](https://github.com/omendb/omendb-rs)** - Rust implementation and reference line for OmenDB, with Python and Node.js bindings and hybrid filtered retrieval
 - **[omengrep](https://github.com/nijaru/omengrep)** - Semantic code search CLI. Tree-sitter parsing for 22 languages, hybrid embedding + BM25 ranking
 - **[hnsw-go](https://github.com/nijaru/hnsw-go)** - Native Go HNSW graph implementation with pluggable distance metrics
 - **[stt-bench](https://github.com/nijaru/stt-bench)** - Speech-to-text benchmarking across 13 acoustic conditions. Published results for 4 models

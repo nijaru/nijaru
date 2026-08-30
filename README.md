@@ -19,6 +19,7 @@ I work on databases, developer tools, and agent infrastructure, primarily in Go,
 - **[pi-fast-mode](https://github.com/nijaru/pi-fast-mode)** — Pi extension for OpenAI Codex fast mode.
 - **[pi-compactor](https://github.com/nijaru/pi-compactor)** — LLM-driven context compaction for coding agents.
 - **[pi-subagents](https://github.com/nijaru/pi-subagents)** — Agent delegation for pi with sequential chains and parallel execution.
+- **[pi-workflows](https://github.com/nijaru/pi-workflows)** — Durable, resumable workflow orchestration for pi.
 - **[pi-goal](https://github.com/nijaru/pi-goal)** — Session-scoped autonomous goals for pi.
 - **[pi-usage](https://github.com/nijaru/pi-usage)** — Pi extension that shows OpenAI Codex subscription quota in the footer.
 

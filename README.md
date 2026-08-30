@@ -1,25 +1,22 @@
-I work on databases, developer tools, agent infrastructure, and systems software, primarily in Go, Rust, Python, TypeScript, and Mojo.
+I work on databases, developer tools, and agent infrastructure, primarily in Go, Rust, Python, and TypeScript.
 
 ## `~/projects`
 
-### `databases-and-search/`
+### `data-and-search/`
 
-- **[OmenDB](https://github.com/omendb/omendb)** — Server-first relational database for PostgreSQL-class single-node OLTP, written in Rust and built on SeerDB.
-- **[OmenDB Vector](https://github.com/omendb/omendb-vector)** — Embedded Mojo/Python database for vector and hybrid text retrieval.
-- **[SeerDB](https://github.com/omendb/seerdb)** — Embedded durable ordered byte-KV storage engine for Rust consumers.
-- **[omengrep](https://github.com/nijaru/omengrep)** — Semantic code-search CLI combining Tree-sitter, embeddings, and BM25.
+- **[omendb](https://github.com/omendb/omendb)** — Embedded retrieval database for hybrid search over mutable application data, implemented in Mojo.
+- **[omendb-rs](https://github.com/omendb/omendb-rs)** — Rust implementation of OmenDB with Python and Node.js bindings.
+- **[omengrep](https://github.com/nijaru/omengrep)** — Semantic code search CLI with Tree-sitter parsing.
 - **[hnsw-go](https://github.com/nijaru/hnsw-go)** — Pure-Go HNSW vector search with mmap-backed persistence, filtering, and segment merging.
+- **[stt-bench](https://github.com/nijaru/stt-bench)** — Speech-to-text benchmarking across 13 acoustic conditions and four models.
 
 ### `agents/`
 
-- **[Ion](https://github.com/nijaru/ion)** — Terminal coding agent in Rust with a durable session runtime and multi-provider model support.
-- **[pi-search](https://github.com/nijaru/pi-search)** — Provider-neutral Pi extension for web search, fetching, and bounded research.
-- **[pi-subagents](https://github.com/nijaru/pi-subagents)** — Pi extension for declarative single, parallel, and chained agent delegation.
-- **[pi-workflows](https://github.com/nijaru/pi-workflows)** — Pi extension for durable, resumable, provider-neutral workflow orchestration.
-- **[pi-compactor](https://github.com/nijaru/pi-compactor)** — Pi extension for model-directed context compaction.
-- **[pi-fast-mode](https://github.com/nijaru/pi-fast-mode)** — Pi extension for toggling OpenAI Codex fast mode with accurate cost accounting.
-- **[pi-usage](https://github.com/nijaru/pi-usage)** — Pi extension that shows OpenAI Codex subscription quota in the footer.
-- **[Pilon](https://github.com/nijaru/pilon)** — Desktop workbench for running, supervising, reviewing, and merging Pi coding-agent sessions.
+- **[ion](https://github.com/nijaru/ion)** — Terminal coding agent in Go with multi-provider LLM support, tool execution, and session management.
+- **[pi-search](https://github.com/nijaru/pi-search)** — Pi extension for web search, native provider search, page fetching, and local document extraction.
+- **[pi-fast-mode](https://github.com/nijaru/pi-fast-mode)** — Pi extension for OpenAI Codex fast mode.
+- **[pi-compactor](https://github.com/nijaru/pi-compactor)** — LLM-driven context compaction for coding agents.
+- **[pi-subagents](https://github.com/nijaru/pi-subagents)** — Agent delegation for pi with sequential chains and parallel execution.
 
 ### `developer-tools/`
 
@@ -27,8 +24,6 @@ I work on databases, developer tools, agent infrastructure, and systems software
 - **[aku](https://github.com/nijaru/aku)** — Type-safe Go API framework built on net/http, with request extraction, validation, and OpenAPI generation.
 - **[jb](https://github.com/nijaru/jb)** — Background job manager for long-running CLI tasks.
 - **[tk](https://github.com/nijaru/tk)** — Task tracker for AI agents with Git-friendly storage and blocking dependencies.
-- **[stop](https://github.com/nijaru/stop)** — JSON-first process monitoring for agents and automation.
-- **[ripgo](https://github.com/nijaru/ripgo)** — Ripgrep-compatible content search and fd-like path finding in Go.
 - **[brotli](https://github.com/nijaru/brotli)** — Updated fork of the pure-Go Brotli compression and decompression library.
 
 ### `trading/`

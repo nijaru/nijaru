@@ -6,7 +6,7 @@ I work on databases, developer tools, and agent infrastructure, primarily in Go,
 
 - **[omendb](https://github.com/omendb/omendb)** — Relational database in development for PostgreSQL-class single-node OLTP, written in Rust and built on SeerDB.
 - **[omendb-rs](https://github.com/omendb/omendb-rs)** — Rust vector database implementation with Python and Node.js bindings.
-- **[omendb-vector](https://github.com/omendb/omendb-vector)** — Mojo/Python vector and hybrid retrieval database.
+- **[omendb-vector](https://github.com/omendb/omendb-vector)** — Mojo/Python vector and hybrid retrieval database in development.
 - **[seerdb](https://github.com/omendb/seerdb)** — Embedded durable ordered byte-KV storage engine for Rust consumers.
 - **[omengrep](https://github.com/nijaru/omengrep)** — Semantic code search CLI with Tree-sitter parsing.
 - **[hnsw-go](https://github.com/nijaru/hnsw-go)** — Pure-Go HNSW vector search with mmap-backed persistence, filtering, and segment merging.

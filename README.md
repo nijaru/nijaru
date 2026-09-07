@@ -5,7 +5,7 @@ I work on databases, developer tools, and agent infrastructure, primarily in Go,
 ### `data-and-search/`
 
 - **[omendb](https://github.com/omendb/omendb)** — Relational database for single-node OLTP in Rust on SeerDB, with PostgreSQL compatibility at the wire boundary. Developer preview, not alpha-ready. *(WIP)*
-- **[omendb-vector](https://github.com/omendb/omendb-vector)** — Local-first retrieval engine for vector, text, sparse, and metadata search with lifecycle and source evidence. Rust-first, Mojo only where needed for GPU kernels, design from current retrieval literature. Fresh Rust rebuild, research/design phase. *(WIP)*
+- **[omendb-vector](https://github.com/omendb/omendb-vector)** — Embedded retrieval database in Rust for mutable application data: vector search, BM25 text search, metadata filtering, and hybrid ranking. Developer preview. *(WIP)*
 - **[seerdb](https://github.com/omendb/omendb/tree/main/crates/seerdb)** — Transactional ordered byte-KV storage engine in Rust, developed in the OmenDB workspace as an independently versioned Apache-2.0 crate. WAL recovery, snapshots, and group commit. Developer preview. *(WIP)*
 - **[omengrep](https://github.com/nijaru/omengrep)** — Local code search CLI in Rust: Tree-sitter extraction, embeddings plus BM25, owned local storage. Under rewrite. *(WIP)*
 - **[mem](https://github.com/nijaru/mem)** — Local memory CLI for agents: durable facts and decisions, past-session history with source references, per-workspace resume state. SQLite with FTS5, no daemon. Pre-1.0, interfaces may change. *(WIP)*

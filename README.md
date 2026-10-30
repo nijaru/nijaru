@@ -1,4 +1,4 @@
-I work on databases, developer tools, and agent infrastructure, primarily in Go, Rust, Python, TypeScript, and Mojo.
+I work on backend systems, databases, and developer tools in Rust, Python, Go, and TypeScript.
 
 ## `~/projects`
 
@@ -14,11 +14,11 @@ I work on databases, developer tools, and agent infrastructure, primarily in Go,
 
 ### `agents/`
 
-- **[ion](https://github.com/nijaru/ion)** — Terminal coding agent in Rust: model-facing loop on a single-writer session runtime. Clean-sheet v0 rewrite. *(WIP)*
+- **[ion](https://github.com/nijaru/ion)** — Rust coding agent with persistent, forkable sessions backed by SQLite. Its execution log distinguishes completed tool calls from interrupted calls with unknown effects. Under development.
 - **[pi-search](https://github.com/nijaru/pi-search)** — Pi extension for web search, native provider search, page fetching, and local document extraction.
 - **[pi-fast-mode](https://github.com/nijaru/pi-fast-mode)** — Pi extension for OpenAI Codex fast mode.
-- **[pi-compactor](https://github.com/nijaru/pi-compactor)** — LLM-driven context compaction for coding agents.
-- **[pi-subagents](https://github.com/nijaru/pi-subagents)** — Agent delegation for pi with sequential chains and parallel execution.
+- **[pi-compactor](https://github.com/nijaru/pi-compactor)** — Pi extension that lets the agent choose when to compact its context.
+- **[pi-subagents](https://github.com/nijaru/pi-subagents)** — Background task delegation for Pi. Subagents run alongside the main session and return results to it.
 - **[pi-workflows](https://github.com/nijaru/pi-workflows)** — Durable, resumable workflow orchestration for pi.
 - **[pi-goal](https://github.com/nijaru/pi-goal)** — Session-scoped autonomous goals for pi.
 - **[pi-usage](https://github.com/nijaru/pi-usage)** — Pi extension that shows OpenAI Codex subscription quota in the footer.
@@ -36,7 +36,8 @@ I work on databases, developer tools, and agent infrastructure, primarily in Go,
 ### `infrastructure/`
 
 - **archon** *(private, WIP)* — Distributed resource manager in Rust: discovery, scheduling, enforceable leases, process and container execution, health and recovery. Lab-proven, not production-scale.
-- **engine** *(private, WIP)* — Model inference runtime in Rust: loading and execution, quantized and server inference, batching and scheduling, cache management, hardware backends. Early development; first target is single-GPU NVIDIA.
+- **[ribn](https://github.com/nijaru/ribn)** — Language-model inference engine in Rust with CUDA and Metal backends and decoder checks against reference implementations. Under development.
+- **vero** *(private, experimental)* — Systems language and native compiler using MLIR/LLVM, with static ownership checks for borrowed data.
 
 ### `trading/`
 

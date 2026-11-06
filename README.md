@@ -27,3 +27,7 @@ My main projects are Ion and Vero, with Ribn as a secondary focus.
 Contributed response/layout reuse, bounded caching, and regression tests to the Go
 implementation of Campfire in [merged PR #9](https://github.com/basecamp/once-campfire-go/pull/9).
 The guarded-layout approach adapts and credits [Nick Potts's earlier work](https://github.com/basecamp/once-campfire-go/pull/6).
+
+## Contact
+
+[Website](https://nijaru.com) · [LinkedIn](https://linkedin.com/in/nick-russo) · [Email](mailto:nijaru7@gmail.com)

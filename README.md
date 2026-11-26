@@ -1,6 +1,6 @@
 ## Pi extensions
 
-Extensions for the Pi coding agent, including [background subagents](https://github.com/nijaru/pi-subagents), [agent-controlled compaction](https://github.com/nijaru/pi-compactor), and [web fetch and search](https://github.com/nijaru/pi-search).
+[Background subagents](https://github.com/nijaru/pi-subagents) · [Agent-controlled compaction](https://github.com/nijaru/pi-compactor) · [Web fetch and search](https://github.com/nijaru/pi-search)
 
 ## In development
 
